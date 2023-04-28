@@ -27,6 +27,5 @@
 
 <details>
   <summary><h3> Michael's Coding Journey</h3></summary>
-    I'm a Computer Science student at Old Dominion University. I started my coding journey a few years ago and have been having a blast. I'm eager to learn new things and there does not seem to be an end with this in the programming world. I am currently working on developing a meal planning and grocery shopping app that uses artificial intelligence to create personalized meal plans and grocery lists for users based on their dietary preferences, cooking skills, and budget. Users would input their dietary restrictions, preferred ingredients, and cooking time, and the app would generate a weekly meal plan with recipes and grocery lists![image](https://user-images.githubusercontent.com/79949540/235237069-7341cb68-8fd2-4d23-8f21-eccc9844c074.png)
-.
+    I'm a Computer Science student at Old Dominion University. I started my coding journey a few years ago and have been having a blast. I'm eager to learn new things and there does not seem to be an end with this in the programming world. I am currently working on developing a meal planning and grocery shopping app that uses artificial intelligence to create personalized meal plans and grocery lists for users based on their dietary preferences, cooking skills, and budget. Users would input their dietary restrictions, preferred ingredients, and cooking time, and the app would generate a weekly meal plan with recipes and grocery lists!
 
